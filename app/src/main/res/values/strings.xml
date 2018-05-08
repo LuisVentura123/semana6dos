@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">semana6dos</string>
+    <string name="et2_apellidos">Ingrese Apellido</string>
+    <string name="et1_nombres">Ingrese Nombre</string>
+    <string name="button">Enviar</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="tv_nombres"> Nombre</string>
+    <string name="tv_apellidos"> Apellidos</string>
+
+    <string name="txt5">Ingresa URL</string>
+    <string name="btn_navegar">Navegar</string>
+    <string name="btn_cerrar">Cerrar</string>
+
+</resources>
